@@ -1,4 +1,8 @@
 import { pingPong } from './ping-pong';
+import Character from './character.js';
+import Enemy from './enemy.js';
+import Item from './item.js';
+import Itemlist from './itemList.js'
 import './styles.css';
 import $ from 'jquery';
 

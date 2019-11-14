@@ -1,4 +1,4 @@
-class Character {
+export class Character {
   constructor(name, race, class, items) {
     this.name = name,
     this.id,

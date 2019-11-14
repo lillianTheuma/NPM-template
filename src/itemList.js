@@ -1,4 +1,4 @@
-class ItemList {
+export class ItemList {
   constructor() {
     this.items = []
   }
