@@ -1,5 +1,5 @@
 export function pingPong(goal) {
-  var output = [];
+  const output = [];
   for (var i = 1; i <= goal; i++) {
     if (i % 15 === 0) {
       output.push("ping-pong");
