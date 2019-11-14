@@ -1,6 +1,7 @@
 class Character {
   constructor(name, race, class, items) {
     this.name = name,
+    this.id,
     this.race = race,
     this.class = class,
     this.level = 1,
